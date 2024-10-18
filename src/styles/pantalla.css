@@ -1,0 +1,20 @@
+.input{
+    background-color: rgb(1, 4, 33);
+    height: 5%;
+    border-radius: 19px;
+    margin: 5px;
+    margin-bottom: 20px;
+    text-align: right;
+    padding: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 20px;
+    border: 1px solid white;
+    box-shadow: -1px 4px 1px 1px rgb(100, 11, 84);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: end;
+    text-align: end;
+    justify-content: end;
+   
+}
